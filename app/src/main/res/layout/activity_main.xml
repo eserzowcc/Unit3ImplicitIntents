@@ -1,0 +1,42 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/browser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Web Browser" />
+    <Button
+        android:id="@+id/map"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Map" />
+    <Button
+        android:id="@+id/makeCall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Telephone Call" />
+
+    <Button
+        android:id="@+id/pick_contact"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pick Contact" />
+
+    <Button
+        android:id="@+id/speech_recognition"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Speech Recognition" />
+
+    <Button
+        android:id="@+id/text_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Text Message" />
+
+
+
+</LinearLayout>
