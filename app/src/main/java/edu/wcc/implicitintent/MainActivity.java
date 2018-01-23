@@ -20,7 +20,7 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import edu.wcc.implicitintents.R;
+import edu.wcc.implicitintent.R;
 
 
 /**
